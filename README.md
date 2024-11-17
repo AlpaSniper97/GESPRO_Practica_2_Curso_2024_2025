@@ -1,15 +1,160 @@
 # GESPRO Práctica 2 (Curso 2024-2025)
-Repositorio a emplear por los alumnos de la asignatura de Gestión de Proyectos (3º de G. en Ing. Informática) en el curso académico 2024/25. Universidad de Burgos.
 
-Para completar la práctica 2, se iniciará el repositorio de cada grupo (en el que se completará el resto de la práctica) por medio de un fork a este repositorio.
+Repositorio para la asignatura de Gestión de Proyectos (3º de Grado en Ingeniería Informática) en el curso académico 2024/2025. Universidad de Burgos.
 
-Incluid debajo el nombre de los miembros del grupo:
-- Jose Javier Velasco Whu
-- Amin
+## Miembros del grupo
+- **Jose Javier Velasco Whu**  
+- **Mohamed Amin El Amrani El Khottouli**
+  
+---
 
-## ABOUT GESPRO_Practica_2
+##ABOUT GESPRO_Practica_2
 El proyecto busca simular la planificación ágil de tareas de un proyecto software, incentivando a los estudiantes a trabajar en un entorno profesional relacionado con su formación. Se utilizarán herramientas como GitHub y ZenHub para organizar y gestionar tareas.
 
-## Url de GitHub al repositorio de proyectos GitHub del grupo en el que se realizó la gestión y planificación de tareas propuesta en la práctica.
-- https://github.com/AlpaSniper97/GESPRO_Practica_2_Curso_2024_2025
+---
 
+## 1. URL del Repositorio en GitHub
+Repositorio donde se realizó la gestión y planificación de tareas:  
+https://github.com/AlpaSniper97/GESPRO_Practica_2_Curso_2024_2025
+
+Asegúrate de que el gestor de tareas está configurado como accesible para personas ajenas al equipo.  
+![image](https://github.com/user-attachments/assets/f106aa91-0b07-4a38-a341-4c676805b35e)
+
+---
+
+## 2. Guía para interactuar con el proyecto
+
+### 2.1 Configuración inicial del repositorio
+
+1. **Crear una cuenta en GitHub**  
+   Asegúrate de asociar tu cuenta al correo de la Universidad de Burgos.
+
+2. **Realizar un fork del repositorio original**  
+   Dirígete al repositorio del profesor:  
+https://github.com/miguelbl-ubu/GESPRO_Practica_2_Curso_2024_2025
+   Haz clic en el botón "Fork".  
+![image](https://github.com/user-attachments/assets/dee812f6-cf5c-4e4d-bed2-8f70e74c9667)
+
+3. **Habilitar issues en el repositorio**  
+   - Ve a la pestaña `Settings` de tu repositorio.  
+![image](https://github.com/user-attachments/assets/8a34edb6-9181-4f90-9f09-dfa4d15dcf8d)
+   - Habilita la opción `Issues`.  
+![image](https://github.com/user-attachments/assets/d22f4337-36b2-41e6-9591-1893ab7372cc)
+
+4. **Instalar la extensión de ZenHub**  
+   - Busca "ZenHub Chrome Extension" en Google.  
+   - Descarga e instala la extensión desde la Chrome Web Store.  
+![image](https://github.com/user-attachments/assets/a0c0c481-4a42-471d-b347-e1e507ec70ca)
+
+5. **Configurar ZenHub**
+   - Regístrate en ZenHub y vincula tu cuenta de GitHub. 
+   - Vuelve a GitHub y actualiza la página.
+   - Aparecera un nuevo apartado de ZenHub al entrar a el repositorio:
+      1. Una vez hayamos entrado, nos pedirá unirnos a una organización.
+      1.1. Para el miembro creador no le dejara unirse a una organizacion ya que la tendra que crear el mismo, nos tendremos que unir a el grupo del profesor ya que no nos dejara unirnos directamente para posteriormente abandonarlo y crae uno donde estaremos con nuestro compañero.
+      1.2. Para el compañero solo tendras que unirte al gurpo creado por el lider.
+   - Accede al apartado `ZenHub` dentro de tu repositorio.  
+![image](https://github.com/user-attachments/assets/2d19e133-a39c-443c-8342-12e99f2c757a)
+   - Para crear una organización debemos darle donde esta nuestro correo y dar a Create new workspace
+![image](https://github.com/user-attachments/assets/464f72b5-4b82-4421-bd03-dd371a032af1)
+   Donde asignamos un nombre, descripcion y las opciones.
+
+---
+
+### 2.2 Creación de etiquetas, hitos, Epic, User Stories y Task.
+
+#### **Creación de etiquetas (Labels)**
+
+1. Ve al apartado `Issues` de tu repositorio.  
+2. Haz clic en el engranaje junto a `Labels` para crear una nueva etiqueta.  
+3. Escribe el nombre de la etiqueta y presiona `Enter`.  
+4. Opcional: Asigna un color desde el menú de edición de etiquetas.  
+![image](https://github.com/user-attachments/assets/67c56b09-2e14-458c-9800-5b80868af15f)
+
+#### **Creación de hitos (Milestones)**
+
+1. Desde la pestaña `Issues`, selecciona `New Milestone`.  
+   **[INCLUIR IMAGEN DEL BOTÓN NEW MILESTONE AQUÍ]**
+2. Asigna un nombre, descripción y fecha de finalización al hito.  
+3. Haz clic en `Create Milestone`.  
+**[INCLUIR IMAGEN DE LA CREACIÓN DEL HITO AQUÍ]**
+
+#### **Creación de Epic**
+
+1. Haz clic en el botón `+ Create` en ZenHub.
+2. Selecciona `GitHub Issue`.  
+![image](https://github.com/user-attachments/assets/af4265fb-ac48-42bb-8bac-15a378af6c66)
+3. Rellena los campos:
+   - **Título**: Nombre de la Epic. 
+   - **Labels**: Asiga las etiquetas type Task.
+![image](https://github.com/user-attachments/assets/6e2251a4-369b-4aef-a8cf-d5013d2cd54c)
+
+#### **Creación de User Stories**
+
+1. Haz clic en el botón `+ Create` en ZenHub.
+2. Selecciona `GitHub Issue`.  
+![image](https://github.com/user-attachments/assets/af4265fb-ac48-42bb-8bac-15a378af6c66)
+3. Rellena los campos:
+   - **Título**: Nombre de la User Storie. 
+   - **Descripción**: Descripción de  lo que busce cada US.
+   - **Labels**: Asigna las etiquetas type User Stories y el Epic que dependen.
+![image](https://github.com/user-attachments/assets/cff66ac1-019b-410e-87bc-6b94b0e060f1)
+   
+#### **Creación de tareas (Tasks)**
+
+1. Haz clic en el botón `+ Create` en ZenHub.  
+![image](https://github.com/user-attachments/assets/af4265fb-ac48-42bb-8bac-15a378af6c66)
+2. Selecciona `GitHub Issue`.  
+3. Rellena los campos:  
+   - **Título**: Nombre de la Task.  
+   - **Descripción**: Related with Epic a la que pertenece.
+   - **Labels**: Asigna las etiquetas type Task, Topic y US del que dependen.
+   - **Milestone**: Vincula la tarea al hito correspondiente.  
+   - **Estimate**: Asigna una complejidad (estimación).  
+![image](https://github.com/user-attachments/assets/c7d9d144-4e83-4ee2-9e89-402fde3c3834)
+
+---
+
+### 2.3 Organización del Sprint Backlog
+
+1. Mueve las tareas del `Product Backlog` al `Sprint Backlog`.  
+**[INCLUIR IMAGEN DEL MOVIMIENTO AL SPRINT BACKLOG AQUÍ]**
+
+2. Distribuye las tareas en diferentes columnas según su estado:  
+   - **In Progress**: Tareas en progreso.  
+   - **Review**: Tareas en revisión.  
+   - **Done**: Tareas completadas.  
+**[INCLUIR IMÁGENES DE LAS TAREAS EN CADA COLUMNA AQUÍ]**
+
+---
+
+### 2.4 Cierre del 1er Release
+
+1. Mueve todas las tareas de la `Release 1` a la columna `Closed`.  
+2. Esto indicará que las tareas han sido completadas con éxito.  
+**[INCLUIR IMÁGENES DEL ESTADO CLOSED AQUÍ]**
+
+---
+
+### 2.5 Comienzo del 2º Release
+
+1. Comienza el trabajo en nuevas tareas para la segunda release.  
+**[INCLUIR IMÁGENES DE LA CONFIGURACIÓN DE RELEASE 2 AQUÍ]**
+
+2. Filtra las tareas por etiquetas o temas según sea necesario.  
+   - Por ejemplo, `Topic: Setup`.  
+**[INCLUIR IMÁGENES DE FILTROS AQUÍ]**
+
+---
+
+### 2.6 Ejemplo de conversación en tareas
+
+#### Tarea: **Manage the app from an Android device**  
+**[INCLUIR IMAGEN DE LA CONVERSACIÓN AQUÍ]**
+
+#### Tarea: **Manage accounts**  
+**[INCLUIR IMAGEN DE LA CONVERSACIÓN AQUÍ]**
+
+--- 
+
+Con esta estructura, podrás seguir fácilmente cada paso de la práctica y organizar tu repositorio y tareas en GitHub y ZenHub.
