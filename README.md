@@ -117,7 +117,22 @@ https://github.com/miguelbl-ubu/GESPRO_Practica_2_Curso_2024_2025
 
 ---
 
-### 2.3 Organización del Sprint Backlog
+### 2.3 Filtro por Epics, US y Tasks en la columna de New Issues
+
+-Para filtrar por etiquetas desde GitHub debemos poner en el filtrador, label: seguido de la etiqueta que queramos filtrar.
+
+#### Type: Epic
+**[INCLUIR IMAGEN AQUÍ]**
+
+#### Type: User Stories
+**[INCLUIR IMAGEN AQUÍ]**
+
+#### Type: Task
+**[INCLUIR IMAGEN AQUÍ]**
+
+---
+
+### 2.4 Organización del Sprint Backlog
 
 1. Mueve las tareas del `Product Backlog` al `Sprint Backlog`.
    Movemos todas las tareas del release 1 a Product Backlog primeramente
@@ -136,7 +151,7 @@ https://github.com/miguelbl-ubu/GESPRO_Practica_2_Curso_2024_2025
 
 ---
 
-### 2.4 Cierre del 1er Release
+### 2.5 Cierre del 1er Release
 
 1. Mueve todas las tareas de la `Release 1` a la columna `Closed`.  
 2. Esto indicará que las tareas han sido completadas con éxito.  
@@ -145,7 +160,7 @@ https://github.com/miguelbl-ubu/GESPRO_Practica_2_Curso_2024_2025
 
 ---
 
-### 2.5 Comienzo del 2º Release
+### 2.6 Comienzo del 2º Release
 
 1. Comienza el trabajo en nuevas tareas para la segunda release. Movemos las tareas a Sprint Backlog
    ![image](https://github.com/user-attachments/assets/f7093db8-9ad9-4b2d-a1df-eb795963eef8)
@@ -158,7 +173,7 @@ https://github.com/miguelbl-ubu/GESPRO_Practica_2_Curso_2024_2025
 
 ---
 
-### 2.6 Ejemplo de conversación en tareas
+### 2.7 Ejemplo de conversación en tareas
 
 #### Tarea: **Manage the app from an Android device**  
 **[INCLUIR IMAGEN DE LA CONVERSACIÓN AQUÍ]**
