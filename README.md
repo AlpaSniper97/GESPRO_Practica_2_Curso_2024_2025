@@ -117,14 +117,20 @@ https://github.com/miguelbl-ubu/GESPRO_Practica_2_Curso_2024_2025
 
 ### 2.3 Organización del Sprint Backlog
 
-1. Mueve las tareas del `Product Backlog` al `Sprint Backlog`.  
-**[INCLUIR IMAGEN DEL MOVIMIENTO AL SPRINT BACKLOG AQUÍ]**
+1. Mueve las tareas del `Product Backlog` al `Sprint Backlog`.
+   Movemos todas las tareas del release 1 a Product Backlog primeramente
+   ![image](https://github.com/user-attachments/assets/571ec65e-ec25-4f8a-bf23-96a28ed2fa90)
+
+   Posteriormente volvemos a mover estas tareas desde Product Backlog al Sprint Backlog
+   ![image](https://github.com/user-attachments/assets/359ebd4a-ab76-4b97-9bc1-7fbdbe420aa8)
+
 
 2. Distribuye las tareas en diferentes columnas según su estado:  
    - **In Progress**: Tareas en progreso.  
    - **Review**: Tareas en revisión.  
    - **Done**: Tareas completadas.  
-**[INCLUIR IMÁGENES DE LAS TAREAS EN CADA COLUMNA AQUÍ]**
+![image](https://github.com/user-attachments/assets/6f953270-f6b2-4b97-a79a-57406b0ff685)
+
 
 ---
 
@@ -132,18 +138,21 @@ https://github.com/miguelbl-ubu/GESPRO_Practica_2_Curso_2024_2025
 
 1. Mueve todas las tareas de la `Release 1` a la columna `Closed`.  
 2. Esto indicará que las tareas han sido completadas con éxito.  
-**[INCLUIR IMÁGENES DEL ESTADO CLOSED AQUÍ]**
+![image](https://github.com/user-attachments/assets/93bf2330-29c0-49b3-9fc7-412fc58d2d8b)
+
 
 ---
 
 ### 2.5 Comienzo del 2º Release
 
-1. Comienza el trabajo en nuevas tareas para la segunda release.  
-**[INCLUIR IMÁGENES DE LA CONFIGURACIÓN DE RELEASE 2 AQUÍ]**
+1. Comienza el trabajo en nuevas tareas para la segunda release. Movemos las tareas a Sprint Backlog
+   ![image](https://github.com/user-attachments/assets/f7093db8-9ad9-4b2d-a1df-eb795963eef8)
 
-2. Filtra las tareas por etiquetas o temas según sea necesario.  
+
+3. Filtra las tareas por etiquetas o temas según sea necesario.  
    - Por ejemplo, `Topic: Setup`.  
-**[INCLUIR IMÁGENES DE FILTROS AQUÍ]**
+![image](https://github.com/user-attachments/assets/3f4648b0-d962-4c48-a3a3-b80b78802d17)
+
 
 ---
 
