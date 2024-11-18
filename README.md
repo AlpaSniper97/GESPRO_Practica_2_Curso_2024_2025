@@ -8,7 +8,7 @@ Repositorio para la asignatura de Gestión de Proyectos (3º de Grado en Ingenie
   
 ---
 
-##ABOUT GESPRO_Practica_2
+## ABOUT GESPRO_Practica_2
 El proyecto busca simular la planificación ágil de tareas de un proyecto software, incentivando a los estudiantes a trabajar en un entorno profesional relacionado con su formación. Se utilizarán herramientas como GitHub y ZenHub para organizar y gestionar tareas.
 
 ---
