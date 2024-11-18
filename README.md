@@ -50,9 +50,9 @@ https://github.com/miguelbl-ubu/GESPRO_Practica_2_Curso_2024_2025
    - Regístrate en ZenHub y vincula tu cuenta de GitHub. 
    - Vuelve a GitHub y actualiza la página.
    - Aparecera un nuevo apartado de ZenHub al entrar a el repositorio:
-      1- Una vez hayamos entrado, nos pedirá unirnos a una organización.
-      1.1- Para el miembro creador no le dejara unirse a una organizacion ya que la tendra que crear el mismo, nos tendremos que unir a el grupo del profesor ya que no nos dejara unirnos directamente para posteriormente abandonarlo y crae uno donde estaremos con nuestro compañero.
-      1.2- Para el compañero solo tendras que unirte al gurpo creado por el lider.
+      - 1 Una vez hayamos entrado, nos pedirá unirnos a una organización.
+      - 1.1 Para el miembro creador no le dejara unirse a una organizacion ya que la tendra que crear el mismo, nos tendremos que unir a el grupo del profesor ya que no nos dejara unirnos directamente para posteriormente abandonarlo y crae uno donde estaremos con nuestro compañero.
+      - 1.2 Para el compañero solo tendras que unirte al gurpo creado por el lider.
    - Accede al apartado `ZenHub` dentro de tu repositorio.  
 ![image](https://github.com/user-attachments/assets/2d19e133-a39c-443c-8342-12e99f2c757a)
    - Para crear una organización debemos darle donde esta nuestro correo y dar a Create new workspace
