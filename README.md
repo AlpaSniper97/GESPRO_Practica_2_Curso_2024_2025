@@ -175,8 +175,9 @@ https://github.com/miguelbl-ubu/GESPRO_Practica_2_Curso_2024_2025
 
 ### 2.7 Ejemplo de conversación en tareas
 
-#### Tarea: **Manage the app from an Android device**  
-**[INCLUIR IMAGEN DE LA CONVERSACIÓN AQUÍ]**
+#### Tarea: **Manage the app from a Tablet**  
+![image](https://github.com/user-attachments/assets/2a257e8b-ef76-4621-8374-2842f3ff979e)
+
 
 #### Tarea: **Manage accounts**  
 **[INCLUIR IMAGEN DE LA CONVERSACIÓN AQUÍ]**
