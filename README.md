@@ -74,10 +74,12 @@ https://github.com/miguelbl-ubu/GESPRO_Practica_2_Curso_2024_2025
 #### **Creación de hitos (Milestones)**
 
 1. Desde la pestaña `Issues`, selecciona `New Milestone`.  
-   **[INCLUIR IMAGEN DEL BOTÓN NEW MILESTONE AQUÍ]**
+  ![image](https://github.com/user-attachments/assets/2be8f990-a824-45f2-9c88-ce5f4911dc21)
+
 2. Asigna un nombre, descripción y fecha de finalización al hito.  
 3. Haz clic en `Create Milestone`.  
-**[INCLUIR IMAGEN DE LA CREACIÓN DEL HITO AQUÍ]**
+![image](https://github.com/user-attachments/assets/8cc483d5-abb3-4f67-bd23-b23f19c973d5)
+
 
 #### **Creación de Epic**
 
