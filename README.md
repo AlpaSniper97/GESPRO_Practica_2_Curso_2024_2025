@@ -122,13 +122,13 @@ https://github.com/miguelbl-ubu/GESPRO_Practica_2_Curso_2024_2025
 -Para filtrar por etiquetas desde GitHub debemos poner en el filtrador, label: seguido de la etiqueta que queramos filtrar.
 
 #### Type: Epic
-**[INCLUIR IMAGEN AQUÍ]**
+![image](https://github.com/user-attachments/assets/13ee17b2-12a9-4165-99aa-bc9bd1bb554b)
 
 #### Type: User Stories
-**[INCLUIR IMAGEN AQUÍ]**
+![image](https://github.com/user-attachments/assets/8a6842d5-29a7-4a39-b813-fee1ec9b6589)
 
 #### Type: Task
-**[INCLUIR IMAGEN AQUÍ]**
+![image](https://github.com/user-attachments/assets/6294402c-871b-406a-92b9-149a7e2630f5)
 
 ---
 
